@@ -88,7 +88,7 @@ public class VideoListFragment extends ContentListFragment implements
     private String mCategoryName;
     private ParallaxListView mListView;
     private SwipeRefreshLayout mSwipeRefreshLayout;
-    
+
 
     private LuchadeerApi mApi;
     private LuchadeerPersist mPersist;
