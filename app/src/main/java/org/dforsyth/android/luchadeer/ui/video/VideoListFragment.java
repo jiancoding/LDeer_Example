@@ -83,8 +83,6 @@ public class VideoListFragment extends ContentListFragment implements
     private int mOffsetTmp;
     private int mTotalResults;
 
-    
-
     private VideoArrayAdapter mVideoArrayAdapter;
     private String mCategoryId;
     private String mCategoryName;
